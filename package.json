@@ -1,0 +1,22 @@
+{
+  "name": "heroku-newsletter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpatrick7926/Heroku-Newsletter.git"
+  },
+  "author": "Joshua Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpatrick7926/Heroku-Newsletter/issues"
+  },
+  "homepage": "https://github.com/jpatrick7926/Heroku-Newsletter#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
